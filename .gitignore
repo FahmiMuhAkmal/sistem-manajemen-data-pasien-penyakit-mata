@@ -1,0 +1,9 @@
+# Cache Python (dibuat otomatis saat program dijalankan)
+__pycache__/
+*.pyc
+
+# File sementara Microsoft Office dan sistem operasi
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store

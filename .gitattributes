@@ -1,0 +1,6 @@
+# Data dan dokumen disimpan apa adanya (tanpa konversi akhir baris)
+*.csv -text
+*.pdf binary
+*.docx binary
+*.pptx binary
+*.png binary
